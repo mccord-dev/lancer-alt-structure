@@ -1,6 +1,6 @@
 {
-  "id": "lancer-alt-structure-icenine",
-  "title": "LANCER Alternative Structure (IceNine)",
+  "id": "lancer-alt-structure-mccord",
+  "title": "LANCER Alternative Structure (McCord)",
   "description": "Implements IceNine's alternative structure rulesets for Lancer",
   "version": "#{VERSION}#",
   "library": "false",
